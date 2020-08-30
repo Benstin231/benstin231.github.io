@@ -3721,12 +3721,12 @@
 
 			#banner {
 				min-height: 0;
-				height: auto;
+				height: 100%;
 				padding: 4em 2em;
 			}
 
 				#banner .inner {
-					width: 100%;
+					width: auto;
 				}
 
 				#banner h1 {
@@ -3748,13 +3748,7 @@
 				}
 
 		}
-		@media screen and (max-width: 480px) {
-			#banner {
-				min-height: 0;
-				height: auto;
-				padding: 4em 2em;
-			}
-		}
+
 
 /* Main */
 
