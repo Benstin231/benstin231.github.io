@@ -3749,25 +3749,6 @@
 
 		}
 
-		@media screen and (max-width: 480px) {
-
-			#banner p {
-				font-size: 1em;
-			}
-
-		}
-
-		body.is-loading #banner .inner {
-			-moz-transform: scale(0.99);
-			-webkit-transform: scale(0.99);
-			-ms-transform: scale(0.99);
-			transform: scale(0.99);
-			opacity: 0;
-		}
-
-		body.is-loading #banner:before {
-			opacity: 1;
-		}
 
 /* Main */
 
