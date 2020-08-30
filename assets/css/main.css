@@ -2810,7 +2810,7 @@
 
 		.wrapper .inner {
 			margin: 0 auto;
-			width: 80em;
+			width: 50%;
 			position: relative;
 			z-index: 99;
 		}
@@ -3254,7 +3254,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.wrapper > .inner {
-				width: 65em;
+				width: 60%;
 			}
 
 		}
@@ -3262,7 +3262,7 @@
 		@media screen and (max-width: 980px) {
 
 			.wrapper > .inner {
-				width: 90%;
+				width: 60%;
 			}
 
 		}
