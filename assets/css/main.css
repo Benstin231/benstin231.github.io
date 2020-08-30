@@ -3262,7 +3262,7 @@
 		@media screen and (max-width: 980px) {
 
 			.wrapper > .inner {
-				width: 40%;
+				width: 60%;
 			}
 
 		}
@@ -3270,7 +3270,7 @@
 		@media screen and (max-width: 736px) {
 
 			.wrapper > .inner {
-				width: 40%;
+				width: 60%;
 			}
 
 		}
