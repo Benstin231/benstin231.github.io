@@ -3269,8 +3269,8 @@
 
 		@media screen and (max-width: 736px) {
 
-			.wrapper {
-				padding: 3em 0 1em 0;
+			.wrapper > .inner {
+				width: 40%;
 			}
 
 		}
